@@ -42,3 +42,4 @@ else:
  using their finding for hindi first names corpus. Decision tree can also be made based on the if
  statements in the above program. Its not completely accurate for men names.
  '''
+# https://github.com/skylanskylion/IndianFirstName_classifier link the program and screenshots
